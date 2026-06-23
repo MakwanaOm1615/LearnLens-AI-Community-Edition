@@ -1,0 +1,56 @@
+# ========================
+# API Keys & Secrets
+# ========================
+.env
+config.py
+
+# ========================
+# Large Data Files
+# ========================
+*.joblib
+*.mp3
+*.mp4
+audios/
+Videos/
+jsons/
+newjsons/
+
+# ========================
+# Debug / Temp Artifacts
+# ========================
+prompt.txt
+response.txt
+output1.json
+unused/
+
+# ========================
+# Python
+# ========================
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg
+
+# ========================
+# IDE / Editor
+# ========================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ========================
+# OS Files
+# ========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ========================
+# Jupyter
+# ========================
+.ipynb_checkpoints/

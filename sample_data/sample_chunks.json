@@ -1,0 +1,41 @@
+{
+    "description": "Sample transcript chunks for demo purposes. Replace with your own data.",
+    "chunks": [
+        {
+            "number": "1",
+            "title": "Installing VS Code & How Websites Work",
+            "start": 0.0,
+            "end": 45.0,
+            "text": "In this video, we will learn how to install VS Code and understand how websites work. A website is made up of HTML, CSS, and JavaScript. HTML provides the structure, CSS provides the styling, and JavaScript provides the functionality. When you type a URL in your browser, a request is sent to the server, and the server responds with HTML, CSS, and JS files that your browser renders."
+        },
+        {
+            "number": "1",
+            "title": "Installing VS Code & How Websites Work",
+            "start": 45.0,
+            "end": 120.0,
+            "text": "To install VS Code, go to code.visualstudio.com and download the installer for your operating system. VS Code is a free, lightweight, and powerful code editor made by Microsoft. After installing, you can customize it with extensions like Live Server, Prettier, and more. These extensions make web development much easier and faster."
+        },
+        {
+            "number": "2",
+            "title": "Your First HTML Website",
+            "start": 0.0,
+            "end": 60.0,
+            "text": "Let's create our first HTML website. Create a new file called index.html. Every HTML document starts with a DOCTYPE declaration, followed by the html tag. Inside the html tag, we have the head section for metadata and the body section for visible content. The head contains the title tag which sets the browser tab title."
+        },
+        {
+            "number": "4",
+            "title": "Heading, Paragraphs and Links",
+            "start": 0.0,
+            "end": 55.0,
+            "text": "HTML headings are defined with h1 to h6 tags. H1 is the most important heading and h6 is the least important. Paragraphs are defined with the p tag. Links are created using the anchor tag 'a' with the href attribute. The href attribute specifies the URL of the page the link goes to. You can also use the target attribute to open links in a new tab."
+        },
+        {
+            "number": "7",
+            "title": "Forms and Input Tags in HTML",
+            "start": 0.0,
+            "end": 45.0,
+            "text": "HTML forms are used to collect user input. The form element wraps all the input fields. Forms have an action attribute that specifies where to send the form data, and a method attribute that specifies GET or POST. Input tags come in many types: text, password, email, number, date, checkbox, radio, and more. The label tag is used to label each input field."
+        }
+    ],
+    "text": "Sample transcript data covering VS Code installation, HTML basics, headings, paragraphs, links, and forms."
+}
